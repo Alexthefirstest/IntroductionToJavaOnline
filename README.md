@@ -15,6 +15,7 @@
 ѕример расположени€ задачи:
 -одним классом:
 \by\epam\basicsOfSoftwareCodeDevelopment\linearPrograms\T1_FunctionValue.java
+
 -пакетом:
 by\epam\programmingWithClasses\simplestClassesAndObjects\t6_Timer\...
 
